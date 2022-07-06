@@ -1,0 +1,7 @@
+{
+  "name": "basic-auth-lambda",
+  "version": "0.1.0",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
+}

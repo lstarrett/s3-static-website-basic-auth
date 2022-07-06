@@ -1,0 +1,7 @@
+{
+  "aws_account":  "############",
+  "aws_region":   "us-east-1",
+  "shared_user":  "user",
+  "shared_pass":  "pass",
+  "website_root": "index.html"
+}

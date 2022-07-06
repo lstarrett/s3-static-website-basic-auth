@@ -1,0 +1,8 @@
+node_modules
+.cdk.staging
+cdk.out
+edge-lambda/config
+vim_session
+vim-markdown-preview.html
+.left_off
+*.swp

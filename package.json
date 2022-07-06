@@ -1,0 +1,21 @@
+{
+  "name": "s3-static-website-basic-auth",
+  "version": "0.1.0",
+  "bin": {
+    "s3-static-website-basic-auth": "bin/s3-static-website-basic-auth.js"
+  },
+  "scripts": {
+    "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
+    "cdk": "cdk",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-cdk": "2.30.0",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.30.0",
+    "config": "^3.3.7",
+    "constructs": "^10.0.0"
+  }
+}
